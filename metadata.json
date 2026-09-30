@@ -1,0 +1,6 @@
+{
+  "name": "Job Hunter AI",
+  "description": "AI-powered job search, realistic skill matching, honest CV tailoring, interview prep, and application tracking without fabricating credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
